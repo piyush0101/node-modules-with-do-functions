@@ -1,0 +1,19 @@
+[
+  {
+    "apihost": "https://faas-tor1-70ca848e.doserverless.co",
+    "namespace": "fn-6e058058-e060-4c53-9f65-34085c3e0b55",
+    "packageVersions": {
+      "qr": {
+        "version": "0.0.19",
+        "digest": "1c04e8427b37c1ad6cf01182febc9c7e266d5486c3301413f55f5039afd84ffd"
+      }
+    },
+    "actionVersions": {
+      "qr/qr": {
+        "version": "0.0.17",
+        "digest": "36a295409078b74256938f5841115d9d284bed838b3f03d195895b7ef3b6daaa"
+      }
+    },
+    "webHashes": {}
+  }
+]
